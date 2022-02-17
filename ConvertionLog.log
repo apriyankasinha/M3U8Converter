@@ -1,0 +1,9 @@
+2022-02-17 17:45:49,242 : INFO     : FileNameList.csv Read Successfully
+2022-02-17 17:45:49,243 : ERROR    : substring not found: D:\LogoEdited_20220209\1_1\27_ObjectOrientedProgrammingBasics: Check the file path is complete along with extension
+2022-02-17 17:45:49,244 : ERROR    : [WinError 3] The system cannot find the path specified: 'D:\\LogoEdited_20220209\\1_1'
+2022-02-17 17:45:49,244 : ERROR    : [WinError 3] The system cannot find the path specified: 'D:\\LogoEdited_20220209\\1_1'
+2022-02-17 17:45:49,244 : ERROR    : [WinError 3] The system cannot find the path specified: 'D:\\LogoEdited_20220209\\1_1'
+2022-02-17 17:45:49,245 : ERROR    : [WinError 3] The system cannot find the path specified: 'D:\\LogoEdited_20220209\\1_1'
+2022-02-17 17:45:49,246 : ERROR    : [WinError 3] The system cannot find the path specified: 'D:\\LogoEdited_20220209\\1_1'
+2022-02-17 17:45:49,246 : ERROR    : [WinError 3] The system cannot find the path specified: 'D:\\LogoEdited_20220209\\1_1'
+2022-02-17 17:45:49,247 : INFO     : All files in FileNameList.csv processed.
